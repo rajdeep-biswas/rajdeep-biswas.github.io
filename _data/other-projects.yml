@@ -1,6 +1,6 @@
 - name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
+  url: https://github.com/rajdeep-biswas/Surf-Videos
+  code: https://github.com/rajdeep-biswas/Surf-Videos
   description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
   used:
     - thing: JavaScript
@@ -10,8 +10,8 @@
     - thing: YouTube API
 
 - name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
+  url: https://rajdeep-biswas.github.io/halcyon-site/
+  code: https://github.com/rajdeep-biswas/halcyon-site
   description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
   used:
     - thing: Gatsby
@@ -22,8 +22,8 @@
     - thing: Hyper
 
 - name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
+  url: https://github.com/rajdeep-biswas/CS3200-Project
+  code: https://github.com/rajdeep-biswas/CS3200-Project
   description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
   used:
     - thing: Python
@@ -34,8 +34,8 @@
     - thing: JavaScript
 
 - name: myNEU Redesign
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
+  url: https://rajdeep-biswas.github.io/Redesign-myNEU/
+  code: https://github.com/rajdeep-biswas/Redesign-myNEU
   description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
   used:
     - thing: Jekyll
@@ -57,7 +57,7 @@
 
 - name: Weather Widget
   url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
+  code: https://github.com/rajdeep-biswas/DemoWebApp
   description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
   img: weather
   used:
@@ -81,8 +81,8 @@
 #   - thing: Cordova
 
 - name: Personal Website V2
-  url: https://bchiang7.github.io/v2
-  code: https://github.com/bchiang7/v2
+  url: https://rajdeep-biswas.github.io/v2
+  code: https://github.com/rajdeep-biswas/v2
   description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
   used:
     - thing: Jekyll
@@ -92,8 +92,8 @@
     - thing: Github Pages
 
 - name: React Resume
-  url: https://bchiang7.github.io/react-profile/
-  code: https://github.com/bchiang7/react-profile/
+  url: https://rajdeep-biswas.github.io/react-profile/
+  code: https://github.com/rajdeep-biswas/react-profile/
   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
   used:
     - thing: JavaScript
@@ -102,7 +102,7 @@
 
 - name: CourseSource
   url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
+  code: https://github.com/rajdeep-biswas/WebDevSpring2016/tree/master/public/project
   description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
   used:
     - thing: HTML
@@ -125,16 +125,16 @@
     - thing: Bootstrap
 
 - name: Fontipsums
-  url: https://bchiang7.github.io/fontipsums
-  code: https://github.com/bchiang7/fontipsums
+  url: https://rajdeep-biswas.github.io/fontipsums
+  code: https://github.com/rajdeep-biswas/fontipsums
   description: As someone who has an eye for typography, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web.
   used:
     - thing: HTML
     - thing: SCSS
 
 - name: Personal Website V1
-  url: https://bchiang7.github.io/v1
-  code: https://github.com/bchiang7/website_2015/
+  url: https://rajdeep-biswas.github.io/v1
+  code: https://github.com/rajdeep-biswas/website_2015/
   description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
   used:
     - thing: HTML

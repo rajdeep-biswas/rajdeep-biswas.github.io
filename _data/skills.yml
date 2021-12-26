@@ -10,9 +10,10 @@ frameworks:
   - item: Sklearn
   - item: Pandas
   - item: Numpy
+  - item: Matplotlib
 
 tools:
   - item: Bash
   - item: Git & Github
   - item: Postman
-  
+
