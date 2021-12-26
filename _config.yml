@@ -12,16 +12,12 @@ hackerrank: https://www.hackerrank.com/rajdeepbiswas
 social:
   - title: email
     url: mailto:r4jdeepbiswas@gmail.com
-  - title: twitter
-    url: https://twitter.com/rajdeep-biswas
-  - title: instagram
-    url: https://instagram.com/rajdeep-biswas
-  - title: codepen
-    url: http://codepen.io/rajdeep-biswas
   - title: github
     url: https://github.com/rajdeep-biswas
   - title: linkedin
     url: https://www.linkedin.com/in/rajdeep-biswas
+  - title: steam
+    url: https://steamcommunity.com/id/raajdeep
 
 # Build settings
 markdown: kramdown
