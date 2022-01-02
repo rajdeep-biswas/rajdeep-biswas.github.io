@@ -1,7 +1,7 @@
 - name: Automated Analysis of HANA PAL Forecast Algorithms
   url: https://github.com/rajdeep-biswas/excel2plot-pipeline
   code: https://github.com/rajdeep-biswas/excel2plot-pipeline
-  description: Takes in an Excel Sheet containing commodities and their expenditure histories, automatically connects to a remote HANA Db runtime via a <a href="https://pypi.org/project/hdbcli/">python wrapper</a>, performs iterative analysis of all available forecasting algorithms, generates & saves comprehensive plots of the predictions, and at the end generates a report of the best performing algorithms. asd asd test
+  description: Takes in an Excel Sheet containing commodities and their expenditure histories, automatically connects to a remote HANA Db runtime via a <a href="https://pypi.org/project/hdbcli/">python wrapper</a>, performs iterative analysis of all available forecasting algorithms, generates & saves comprehensive plots of the predictions, and at the end generates a report of the best performing algorithms.
   used:
     - thing: Python
     - thing: Pandas
