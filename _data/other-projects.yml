@@ -7,6 +7,8 @@
     - thing: TensorFlow
     - thing: Flask
     - thing: Docker
+    - thing: Numpy
+    - thing: Pandas
 
 - name: Forecasting Algorithms Analysis Pipeline
   url: https://github.com/rajdeep-biswas/excel2plot-pipeline
