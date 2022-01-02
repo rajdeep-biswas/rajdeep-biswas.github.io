@@ -4,14 +4,20 @@
     <p>Most of the code I have written stays in Jupyter Notebooks or my company's proprietary deployed applications. Here are the bits that I can show you which demonstrated the structure and documentation of the code that I write.</p>
     <div class="project">
       <!--figcaption class="project__caption"-->
+        <a href="https://github.com/rajdeep-biswas/excel2plot-pipeline" target="_blank" class="arrow-link">Automated Analysis of HANA PAL Forecast Algorithms</a>
         <div class="project__name">
           <a href="https://github.com/rajdeep-biswas/excel2plot-pipeline" target="_blank">Automated Analysis of HANA PAL Forecast Algorithms</a>
         </div>
         <p>Takes in an Excel Sheet containing commodities and their expenditure histories,
-           automatically connects to a remote HANA runtime via a <a href="https://pypi.org/project/hdbcli/">python wrapper</a>,
+           automatically connects to a remote HANA Db runtime via a <a href="https://pypi.org/project/hdbcli/">python wrapper</a>,
            performs iterative analysis of all available forecasting algorithms, generates & saves comprehensive plots of the predictions,
            and at the end generates a report of the best performing algorithms.
         </p>
+        <div class="project__used">
+          {% for item in project.used %}
+          <span class="project__used__item">{{item.thing}}</span>
+          {% endfor %}
+        </div>
       <!--/figcaption-->
     </div>
   </div>
