@@ -17,3 +17,12 @@
     - thing: Pandas
     - thing: Matplotlib
     - thing: SQL Stored Procedures
+
+- name: COVID-19 India Daily Cases Prediction
+  url: https://github.com/rajdeep-biswas/covid19-prediction
+  code: hhttps://github.com/rajdeep-biswas/covid19-prediction
+  description: A Linear Regression model with a Polynomial features of degree 4 learn the data of last 30 days of growth of COVID-19 number of cases (cumulative) and try to predict what the following 15 days would look like. <a href="https://araon.github.io/Covid19-Dasboard/">View live graph here</a>.
+  used:
+    - thing: Python
+    - thing: Sklearn
+    - thing: GitHub Actions
