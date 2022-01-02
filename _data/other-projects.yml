@@ -4,7 +4,7 @@
   description: A ton of helpful Time Series data preprocessing utility I wrote for an Anomaly Detection (LSTM - Autoencoders) Service on incoming API Traffic usecase.
   used:
     - thing: Python
-    - thing: Tensorflow
+    - thing: TensorFlow
     - thing: Flask
     - thing: Docker
 
