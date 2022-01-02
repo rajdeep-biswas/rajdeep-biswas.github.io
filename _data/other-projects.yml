@@ -1,11 +1,9 @@
-- name: Surf Videos
-  url: https://github.com/rajdeep-biswas/Surf-Videos
-  code: https://github.com/rajdeep-biswas/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Automated Analysis of HANA PAL Forecast Algorithms
+  url: https://github.com/rajdeep-biswas/excel2plot-pipeline
+  code: https://github.com/rajdeep-biswas/excel2plot-pipeline
+  description: Takes in an Excel Sheet containing commodities and their expenditure histories, automatically connects to a remote HANA Db runtime via a <a href="https://pypi.org/project/hdbcli/">python wrapper</a>, performs iterative analysis of all available forecasting algorithms, generates & saves comprehensive plots of the predictions, and at the end generates a report of the best performing algorithms.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
-
+    - thing: Python
+    - thing: Pandas
+    - thing: Matplotlib
+    - thing: SQL Stored Procedures
