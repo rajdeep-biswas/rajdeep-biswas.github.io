@@ -1,3 +1,14 @@
+- name: Unigram Overlap Analysis for Large Textual Datasets
+  url: https://github.com/rajdeep-biswas/overlap-analysis
+  code: https://github.com/rajdeep-biswas/overlap-analysis
+  description: Complete automated analysis solution to parse your invoices that makes text preprocessing recommendations to enrich your UNSPSC classifications better.
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Spacy
+    - thing: NLTK
+    - thing: Rapidfuzz
+
 - name: Anomaly Detection / Time Series Utility
   url: https://github.com/rajdeep-biswas/Anomaly-Detection-Utility
   code: https://github.com/rajdeep-biswas/Anomaly-Detection-Utility
